@@ -1,6 +1,6 @@
 # HalloweenESPSpeakers
 
-[![Build Status](https://travis-ci.com/debsahu/HalloweenESPSpeakers.svg?branch=master)](https://travis-ci.com/debsahu/HalloweenESPSpeakers) [![License: MIT](https://img.shields.io/github/license/debsahu/HalloweenESPSpeakers.svg)](https://opensource.org/licenses/MIT) [![version](https://img.shields.io/github/release/debsahu/HalloweenESPSpeakers.svg)](https://github.com/debsahu/HalloweenESPSpeakers/releases/tag/1.2.0) [![LastCommit](https://img.shields.io/github/last-commit/debsahu/HalloweenESPSpeakers.svg?style=social)](https://github.com/debsahu/HalloweenESPSpeakers/commits/master)
+[![Build Status](https://travis-ci.com/debsahu/HalloweenESPSpeakers.svg)](https://travis-ci.com/debsahu/HalloweenESPSpeakers) [![License: MIT](https://img.shields.io/github/license/debsahu/HalloweenESPSpeakers.svg)](https://opensource.org/licenses/MIT) [![version](https://img.shields.io/github/release/debsahu/HalloweenESPSpeakers.svg)](https://github.com/debsahu/HalloweenESPSpeakers/releases/tag/1.2.0) [![LastCommit](https://img.shields.io/github/last-commit/debsahu/HalloweenESPSpeakers.svg?style=social)](https://github.com/debsahu/HalloweenESPSpeakers/commits/master)
 
 **Halloween Special: ESP8266 based speakers w/ Motion-sensing & LEDS | Pumpkin carving with powertools**
 
